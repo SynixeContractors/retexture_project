@@ -11,4 +11,4 @@ done
 
 cd "/home/thisconnect/arma/Factions"
 hemtt dev
-
+date
